@@ -1,0 +1,20 @@
+{
+    "name": "Zuma",
+    "rootNamespace": "",
+    "references": [
+        "GUID:274dbf99e5ea3f045808a4966c0e7dec",
+        "GUID:26d8f64f53dbe4a48882516e3f534f2d",
+        "GUID:3a748f0cc40e6be42a9bab66aaa00ed6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "DOTween.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

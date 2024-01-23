@@ -1,0 +1,18 @@
+{
+    "name": "BansheeGz.BGCurve.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:274dbf99e5ea3f045808a4966c0e7dec"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
